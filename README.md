@@ -1,2 +1,2 @@
 # clima
-home automation
+clima and energy automation
